@@ -6,7 +6,7 @@
 	url = https://github.com/visionmedia/commander.js.git
 [submodule "nodify"]
 	path = nodify
-	url = https://github.com/jgonera/phantomjs-nodify.git
+	url = https://github.com/maxatwork/phantomjs-nodify.git
 [submodule "node_modules/debug"]
 	path = node_modules/debug
 	url = https://github.com/visionmedia/debug.git
